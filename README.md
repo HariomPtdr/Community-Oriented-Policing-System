@@ -1,13 +1,36 @@
-# Community-Oriented-Policing-System
-A digital community policing framework enabling citizens to file e-FIRs, track cases, and send SOS alerts with role-based dashboards for SHO, SI, ASI, and Head Constables.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Implementation details are given below :
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 33 PM" src="https://github.com/user-attachments/assets/c219dab1-83e9-472e-b26f-4181c4180b21" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 38 PM" src="https://github.com/user-attachments/assets/b0fcdea2-e337-4c87-b6f3-6893cfdd217e" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 44 PM" src="https://github.com/user-attachments/assets/a638b9bf-5d23-4f1f-a3f7-8549f1440a88" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 50 PM" src="https://github.com/user-attachments/assets/b0028830-b5fa-46ad-8d9e-5a129437c791" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 56 PM" src="https://github.com/user-attachments/assets/10aa3b60-1b07-42f2-81ac-f2e6f6827f41" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 5 00 05 PM" src="https://github.com/user-attachments/assets/850b2f9e-e999-4a5f-bca2-72464b80be1c" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 5 00 12 PM" src="https://github.com/user-attachments/assets/ccbbfd1b-f82c-4495-9d30-abf1abb5c336" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 5 00 19 PM" src="https://github.com/user-attachments/assets/b7559e4b-c5e5-40b4-8483-42264b1f01b7" />
-<img width="1470" height="956" alt="Screenshot 2026-03-18 at 5 00 29 PM" src="https://github.com/user-attachments/assets/100e163b-c9cc-4580-bb25-a342c4c2a8e6" />
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

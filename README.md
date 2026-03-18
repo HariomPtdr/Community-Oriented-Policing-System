@@ -1,5 +1,6 @@
 # Community-Oriented-Policing-System
 A digital community policing framework enabling citizens to file e-FIRs, track cases, and send SOS alerts with role-based dashboards for SHO, SI, ASI, and Head Constables.
+
 Implementation details are given below :
 <img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 33 PM" src="https://github.com/user-attachments/assets/c219dab1-83e9-472e-b26f-4181c4180b21" />
 <img width="1470" height="956" alt="Screenshot 2026-03-18 at 4 59 38 PM" src="https://github.com/user-attachments/assets/b0fcdea2-e337-4c87-b6f3-6893cfdd217e" />
